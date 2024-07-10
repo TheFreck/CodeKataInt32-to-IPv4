@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Int32toIPv4/1.0.0": {
+        "runtime": {
+          "Int32toIPv4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Int32toIPv4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
